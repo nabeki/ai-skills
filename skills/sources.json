@@ -1,0 +1,57 @@
+{
+  "source_repository": "dvcrn/openclaw-skills-marketplace",
+  "source_ref": "67b1c2373b5ad4a345051bc48b47ca2a5d8f933c",
+  "install_type": "github-index",
+  "skills": [
+    {
+      "name": "content-writer",
+      "description": "自媒体内容生成器，多平台内容生成。",
+      "source_path": "plugins/alexandrali1989-cell--content-writer/skills/content-writer/SKILL.md"
+    },
+    {
+      "name": "content-creator-cn",
+      "description": "中文内容创作助手，适合中文技术作者和多平台文章生成。",
+      "source_path": "plugins/yang1002378395-cmyk--content-creator-cn/skills/content-creator-cn/SKILL.md"
+    },
+    {
+      "name": "content-agency",
+      "description": "AI 内容创作专家团，支持文案、社媒策略、品牌故事等。",
+      "source_path": "plugins/antonia-sz--content-agency/skills/content-agency/SKILL.md"
+    },
+    {
+      "name": "content-hunter",
+      "description": "内容捕手，用于热门内容抓取和趋势汇报。",
+      "source_path": "plugins/judefluen-coder--content-hunter/skills/content-hunter/SKILL.md"
+    },
+    {
+      "name": "content-deai-engine",
+      "description": "去 AI 味内容引擎，让内容更像真人表达。",
+      "source_path": "plugins/lanyasheng--content-deai-engine/skills/content-deai-engine/SKILL.md"
+    },
+    {
+      "name": "content-repurpose-studio",
+      "description": "内容复用工作室，一稿多发，多平台适配。",
+      "source_path": "plugins/52yuanchangxing--content-repurpose-studio/skills/content-repurpose-studio/SKILL.md"
+    },
+    {
+      "name": "content-ops",
+      "description": "内容运营自动化，支持采集、发布、数据分析。",
+      "source_path": "plugins/cwyhkyochen-a11y--content-ops/skills/content-ops/SKILL.md"
+    },
+    {
+      "name": "content-analytics",
+      "description": "内容数据分析，分析内容表现。",
+      "source_path": "plugins/yang1002378395-cmyk--content-analytics/skills/content-analytics/SKILL.md"
+    },
+    {
+      "name": "content-analyzer",
+      "description": "内容分析器，分析具体笔记、视频、数据。",
+      "source_path": "plugins/dizhu--content-analyzer/skills/content-analyzer/SKILL.md"
+    },
+    {
+      "name": "content-goldmine",
+      "description": "内容金矿，拆解爆款并提炼选题。",
+      "source_path": "plugins/liujuntao123--content-goldmine/skills/content-goldmine/SKILL.md"
+    }
+  ]
+}
